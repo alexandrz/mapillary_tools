@@ -68,7 +68,7 @@ This script uploads images taken with any of the Mapillary apps to the Mapillary
     python upload.py path-to-images/ 
 
 
-On Android Systems you can find the images under `/storage/emulated/0/Android/data/app.mapillary/files/pictures/`.
+On Android Systems you can find the images under `/storage/emulated/0/Android/data/app.mapillary/files/mapillary/`.
 
 On iOS, open iTunes, select your device, and scroll down to Mapillary under apps. You can see the files and copy them over from there.
 
